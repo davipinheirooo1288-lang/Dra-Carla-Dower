@@ -4,7 +4,8 @@
 
 - `logo.png` - logo usada no header e no footer.
 - `hero-lawyer.png` - imagem principal da primeira seção.
-- `about-lawyer.png` - imagem usada nas seções de apoio e sobre.
+- `about-lawyer.png` - imagem usada na segunda seção de apoio.
+- `defesa-tecnica-lawyer.png` - imagem usada na seção sobre.
 
 ## Referências
 

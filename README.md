@@ -34,6 +34,7 @@ Substitua mantendo os mesmos nomes:
 - `assets/logo.png`
 - `assets/hero-lawyer.png`
 - `assets/about-lawyer.png`
+- `assets/defesa-tecnica-lawyer.png`
 
 Manter os nomes evita precisar mexer no HTML.
 
