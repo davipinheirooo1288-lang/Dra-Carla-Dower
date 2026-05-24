@@ -9,6 +9,7 @@ Landing page estática da Dower Advocacia Internacional, feita em HTML, CSS e Ja
 - `script.js` - links de WhatsApp, Instagram, Google Maps, menu mobile e carrossel.
 - `assets/` - imagens ativas da página.
 - `assets/referencias/mockups/` - prints e referências usadas para reconstruir o layout.
+- `assets/referencias/fotos-recebidas/` - fotos originais recebidas antes do recorte final.
 
 ## Como abrir localmente
 

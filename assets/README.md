@@ -10,6 +10,8 @@
 
 Os arquivos em `referencias/mockups/` são os prints originais usados como base visual. Eles não são carregados pelo site, mas ficam guardados para futuras alterações de layout.
 
+Os arquivos em `referencias/fotos-recebidas/` são as fotos originais enviadas antes do recorte e da otimização para o layout.
+
 ## Regra para atualizar imagens
 
 Quando trocar uma imagem, prefira substituir o arquivo existente mantendo o mesmo nome. Assim o site continua funcionando sem alterações no código.
