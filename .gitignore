@@ -1,0 +1,10 @@
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Arquivos temporários de editores e testes locais
+*.tmp
+*.log
+.cache/
+.vercel/
+node_modules/
