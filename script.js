@@ -5,7 +5,7 @@ const CONTACT = {
     "https://www.google.com/maps/place/Dower+Advocacia+Internacional/@38.7197933,-9.1438756,17z/data=!4m16!1m9!3m8!1s0xd193382441c71e5:0x47cf0a20ef675534!2sR.+S%C3%A3o+Jos%C3%A9+149,+1150-325+Lisboa,+Portugal!3b1!8m2!3d38.7197933!4d-9.1438756!10e3!16s%2Fg%2F11snp_x6wt!3m5!1s0xd19339c49530a09:0xa72d0e8f3f52cac2!8m2!3d38.719835!4d-9.1438278!16s%2Fg%2F11tsr4h196?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D",
   instagramUrl: "https://www.instagram.com/doweradvocacia/",
   message:
-    "Olá, Dra. Carla Dower. Preciso de orientação em Direito Penal em Portugal e gostaria de falar com urgência.",
+    "Olá, Dra. Carla Dower. Gostaria de solicitar uma análise confidencial em defesa penal em Portugal.",
 };
 
 const whatsappUrl = `https://wa.me/${CONTACT.whatsappDigits}?text=${encodeURIComponent(CONTACT.message)}`;
